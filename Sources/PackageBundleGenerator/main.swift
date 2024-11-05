@@ -62,7 +62,7 @@ extension Bundle {
             }
         }
 
-        fatalError("unable to find bundle named \(packageName)_\(targetName)")
+        fatalError("unable to find bundle named xxxx \(packageName)_\(targetName)")
     }()
 }
 """
